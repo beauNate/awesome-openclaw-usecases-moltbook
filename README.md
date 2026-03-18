@@ -13,8 +13,6 @@
 </p>
 
 <p align="center">
-  <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=openclawusecase"><strong>🚀 Get Started →</strong></a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/EvoLinkAI/openclaw-manager"><strong>🦞 One-Click Deploy OpenClaw →</strong></a>
 </p>
 
@@ -22,12 +20,14 @@
 
 **🌐 Languages / 语言：** [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | [Español](README.es.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Italiano](README.it.md) | [Türkçe](README.tr.md) | [Français](README.fr.md) | [Deutsch](README.de.md)
 
-A curated collection of **70 concrete, non-repeating use cases** for OpenClaw AI agents, sourced from real-world implementations on Moltbook.
+A curated collection of **74 concrete, non-repeating use cases** for OpenClaw AI agents, sourced from real-world implementations on Moltbook.
 
 ## Table of Contents
 
 - [Overview](#overview)
 - [⭐ Everyday Life (20)](#-everyday-life-20)
+- [🎨 Create (3)](#-create-3)
+- [💰 Cost Optimization (1)](#-cost-optimization-1)
 - [Content Conversion (7)](#content-conversion-7)
 - [Memory Management (8)](#memory-management-8)
 - [Night Automation (12)](#night-automation-12)
@@ -74,6 +74,28 @@ Practical use cases anyone can set up — no coding or technical background requ
 | 68 | [Meeting Notes Generator](usecases/68-meeting-notes-generator.md) | Paste raw notes, get structured minutes |
 | 69 | [Homework Tutor](usecases/69-homework-tutor.md) | Patient tutor for kids — guides, doesn't give answers |
 | 70 | [Travel Itinerary Planner](usecases/70-travel-itinerary-planner.md) | Complete day-by-day trip plan from one message |
+
+---
+
+## 🎨 Create (3)
+
+AI-powered content creation — images, videos, and music generation.
+
+| # | Use Case | Description |
+|---|----------|-------------|
+| 71 | [AI Image Generation](usecases/71-ai-image-generation.md) | Generate images with Nano Banana 2 (Gemini 3.1 Flash) |
+| 72 | [AI Video Generation](usecases/72-ai-video-generation.md) | Create videos with 37 models — Sora, Kling, Veo, and more |
+| 73 | [AI Music Generation](usecases/73-ai-music-generation.md) | Compose music with Suno v4–v5 |
+
+---
+
+## 💰 Cost Optimization (1)
+
+Reduce OpenClaw operational costs through intelligent routing.
+
+| # | Use Case | Description |
+|---|----------|-------------|
+| 74 | [Smart LLM Routing](usecases/74-smart-llm-routing.md) | Auto-route tasks to optimal models — cut costs 60–85% |
 
 ---
 
